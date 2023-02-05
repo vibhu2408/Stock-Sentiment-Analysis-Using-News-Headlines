@@ -8,8 +8,8 @@ Stock Market Prediction Web App based on Machine Learning and Sentiment Analysis
 
 Wordpress file has been moved from the repository due to exceeding quota of Github LFS. Download it now from here
 
-File and Directory Structure
-screenshots - Screenshots of Web App
+# File and Directory Structure
+screenshots - Screenshots of Web App 
 static - static files of flask app: css, images, js, etc.
 templates - html files
 Tweets.py - structure of Tweets for sentiment Analysis
